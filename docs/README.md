@@ -40,13 +40,3 @@ docs/
 ├── rspress.config.ts    # Rspress 配置
 └── tsconfig.json        # TypeScript 配置
 ```
-
-## 文档同步
-
-本文档与主仓库中的文档保持同步：
-- `docs/docs/zh/guide/deploy.mdx` ↔ `DEPLOY.md`
-- `docs/docs/zh/env.md` ↔ `ENV.md`
-- `docs/docs/zh/guide/rss.md` ↔ `RSS.md`
-- `docs/docs/zh/guide/contribution.md` ↔ `CONTRIBUTING_zh_CN.md`
-
-修改时请同时更新两个位置的文档以确保一致性。
