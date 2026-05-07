@@ -24,7 +24,12 @@ export default defineConfig({
   themeConfig: {
     socialLinks: [
       { icon: 'github', mode: 'link', content: 'https://github.com/openRin/Rin' },
+      { icon: 'discord', mode: 'link', content: 'https://discord.gg/JWbSTHvAPN' },
     ],
+    editLink: {
+      docRepoBaseUrl: 
+          "https://github.com/openRin/Rin/tree/main/docs/docs",
+    },
   },
   i18nSource: {
     outlineTitle: {
