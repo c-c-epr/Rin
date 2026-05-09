@@ -297,8 +297,6 @@ fixed bug
 
 不确定时，对新功能使用 **minor**。
 
-## 有问题？
+## 相关资料
 
 - 📖 阅读[提交规范](./commit-convention.md)了解提交指南
-- 🐛 报告问题：[GitHub Issues](https://github.com/openRin/Rin/issues)
-- 💬 加入我们的社区讨论

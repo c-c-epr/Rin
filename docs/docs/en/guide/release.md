@@ -297,8 +297,6 @@ fixed bug
 
 When in doubt, use **minor** for new features.
 
-## Questions?
+## Related Resources
 
 - 📖 Read [Commit Convention](./commit-convention.md) for commit guidelines
-- 🐛 Report issues: [GitHub Issues](https://github.com/openRin/Rin/issues)
-- 💬 Join discussions in our community

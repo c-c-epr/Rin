@@ -282,9 +282,3 @@ bun run dev:setup
 ## 生产部署
 
 请参考 [部署指南](./deploy.mdx) 了解生产环境部署流程。
-
-## 获取帮助
-
-- 📖 完整文档：https://docs.openrin.org
-- 💬 Discord：https://discord.gg/JWbSTHvAPN
-- 🐛 提交 Issue：https://github.com/openRin/Rin/issues

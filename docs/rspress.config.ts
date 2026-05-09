@@ -1,5 +1,6 @@
 import * as path from 'path';
 import { defineConfig } from '@rspress/core';
+import { remarkRinHelpLinks } from './shared/help-links';
 
 export default defineConfig({
   root: path.join(__dirname, 'docs'),
@@ -30,6 +31,9 @@ export default defineConfig({
       docRepoBaseUrl: 
           "https://github.com/openRin/Rin/tree/main/docs/docs",
     },
+  },
+  markdown: {
+    remarkPlugins: [remarkRinHelpLinks],
   },
   i18nSource: {
     outlineTitle: {

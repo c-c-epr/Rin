@@ -176,12 +176,6 @@ If migration fails and you need to rollback:
 2. Force push to main (⚠️ destructive): `git push origin HEAD:main --force`
 3. Redeploy from Actions
 
-## Need Help?
-
-- 📖 [Full Documentation](https://rin-docs.xeu.life)
-- 🐛 [GitHub Issues](https://github.com/openRin/Rin/issues)
-- 💬 [GitHub Discussions](https://github.com/openRin/Rin/discussions)
-
 ---
 
 *Last updated: 2025-02-08*

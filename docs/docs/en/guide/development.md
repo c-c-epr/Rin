@@ -282,9 +282,3 @@ GitHub OAuth needs to be configured for local development:
 ## Production Deployment
 
 Please refer to the [Deployment Guide](./deploy.mdx) for production deployment procedures.
-
-## Getting Help
-
-- 📖 Full documentation: https://docs.openrin.org
-- 💬 Discord: https://discord.gg/JWbSTHvAPN
-- 🐛 Submit Issue: https://github.com/openRin/Rin/issues

@@ -179,12 +179,6 @@ const feeds = await client.feed.list({ page: 1 });
 2. 强制推送到 main（⚠️ 破坏性）：`git push origin HEAD:main --force`
 3. 从 Actions 重新部署
 
-## 需要帮助？
-
-- 📖 [完整文档](https://rin-docs.xeu.life)
-- 🐛 [GitHub Issues](https://github.com/openRin/Rin/issues)
-- 💬 [GitHub Discussions](https://github.com/openRin/Rin/discussions)
-
 ---
 
 *最后更新：2025-02-08*
